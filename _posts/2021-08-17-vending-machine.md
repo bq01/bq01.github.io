@@ -15,7 +15,7 @@ tags: [公設]
 
 ![](../assets/img/20210817/01_001.jpg)
 
-<video width="960" height="540" controls>
+<video width="384" height="216" controls>
   <source src="../assets/img/20210817/01_002.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>

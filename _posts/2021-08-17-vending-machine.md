@@ -13,9 +13,9 @@ tags: [公設]
 實際是否真的需要販賣機，還會評估大悅是開 7-11 門市等因素。
 
 
-![](../assets/img/20210817/01_001.jpg)
+![](../assets/post/20210817/01_001.jpg)
 
 <video width="384" height="216" controls>
-  <source src="../assets/img/20210817/01_002.mp4" type="video/mp4">
+  <source src="../assets/post/20210817/01_002.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>

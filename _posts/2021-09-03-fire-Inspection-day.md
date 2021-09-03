@@ -40,8 +40,16 @@ tags: [公設]
 
 ![](../assets/post/20210903/01_02.jpg)
 
+![](../assets/post/20210903/01_03.jpg)
+
+![](../assets/post/20210903/01_04.jpg)
+
+![](../assets/post/20210903/01_05.jpg)
+
+![](../assets/post/20210903/01_06.jpg)
+
 <video width="384" height="216" controls>
-  <source src="../assets/post/20210903/01_03.mp4" type="video/mp4">
+  <source src="../assets/post/20210903/01_07.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
@@ -60,6 +68,9 @@ Your browser does not support the video tag.
 ![](../assets/post/20210903/02_03.jpg)
 
 ![](../assets/post/20210903/02_04.jpg)
+
+![](../assets/post/20210903/02_05.jpg)
+
 
 ### 斷電ABC棟小公
 （各棟電梯與抽檢排煙設備）

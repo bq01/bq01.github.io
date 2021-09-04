@@ -116,6 +116,7 @@ Your browser does not support the video tag.
 
 ![](../assets/post/20210903/03_02.jpg)
 
+B棟排煙設備控制盤故障，無法進行風壓測試
 ![](../assets/post/20210903/03_03.jpg)
 
 ![](../assets/post/20210903/03_04.jpg)

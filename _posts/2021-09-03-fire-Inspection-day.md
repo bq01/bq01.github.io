@@ -71,6 +71,7 @@ Your browser does not support the video tag.
 
 測試各泵浦運轉。
 ![](../assets/post/20210903/02_01.jpg)
+
 ![](../assets/post/20210903/02_03.jpg)
 
 檢查泡沫液容量。
@@ -115,7 +116,9 @@ Your browser does not support the video tag.
 
 改由（公電）測試排煙設備
 ![](../assets/post/20210903/03_02.jpg)
+
 ![](../assets/post/20210903/03_03.jpg)
+
 ![](../assets/post/20210903/03_04.jpg)
 
 斷小公測電梯電源轉換

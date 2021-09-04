@@ -75,7 +75,7 @@ Your browser does not support the video tag.
 ![](../assets/post/20210903/02_03.jpg)
 
 檢查泡沫液容量。
-![](../assets/post/20210903/02_02.jpg)
+![](../assets/post/20210903/02_06.jpg)
 
 進行 1F 採水泵口送水。
 ![](../assets/post/20210903/02_05.jpg)

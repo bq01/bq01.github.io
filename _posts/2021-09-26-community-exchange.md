@@ -54,7 +54,7 @@ tags: [社區交流]
 
 ![](../assets/post/20210926/community/03_01_防火門開關.jpg)
 
-<video width="216" height="384" controls>
+<video width="384" height="683" controls>
   <source src="../assets/post/20210926/community/03_02.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>

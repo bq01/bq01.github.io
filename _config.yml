@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: 第二屆青峰管委籌備會
+title: 新潤青峰第二屆管理委員會
 
 # Short description of your site
-description: 第二屆青峰管委籌備會
+description: 新潤青峰第二屆管理委員會
 
 # GitHub Actions
 repository: "david0928/bq001.github.io"
@@ -88,7 +88,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "bq001.github.io"
+url-pretty: "bq01.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

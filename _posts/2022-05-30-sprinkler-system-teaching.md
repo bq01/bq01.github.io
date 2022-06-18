@@ -8,8 +8,7 @@ thumbnail-img:
 tags: [機電]
 ---
 
-鑑於社區中庭和各棟頂樓的噴灌灑水系統，一直不知道詳細的操作方式，所以請湧冠水藝工程公司來社區教學，並且開放也想要了解的住戶，一起參與學習。
-![](https://i.imgur.com/N5ClXob.jpg)
+鑑於社區中庭和各棟頂樓的噴灌灑水系統，一直不知道詳細的操作方式，所以請湧冠水藝工程公司來社區教學，並且開放也想要了解的住戶，一起參與學習。![](https://i.imgur.com/N5ClXob.jpg)
 
 噴灌灑水系統的設定在 B5 - A 棟梯廳的下方，車位 305 的上方，詳細位置可查看下方的圖片或下載[ B5F 雨水回收設備配置平面圖](../assets/post/20220530-1/20220530-001.pdf)。
 
@@ -43,7 +42,7 @@ tags: [機電]
 
 ![](https://i.imgur.com/dIR6QqF.jpg)
 
-WATER NOW 教學影片
+WATER NOW 噴灌立即噴灑設定 - 教學影片。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yz0gUoZ9tIY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -65,12 +64,32 @@ SCHEDULES: 噴灌定時排程噴灑設定說明
 
 ![](https://i.imgur.com/cw5ZnYI.jpg)
 
-點擊 SCHEDULES -> ZONE RUNTIMES 設定運作時間，以下圖來說會在 06:00 和 18:00 各噴灑一次，如需增加時間，可以點選 ADD START。
+點擊 SCHEDULES -> ZONE RUNTIMES 設定運作時間，以下圖來說會在 06:00 和 18:00 各噴灑一次，如需增加噴灑時間，可以點選 ADD START。
 
 ![](https://i.imgur.com/4EFNvy9.jpg)
 
+SCHEDULES 噴灌定時排程噴灑設定 - 教學影片。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sbJovd5aooE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jqx2pzAbkA8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+其它教學影片和問題討論影片。
 
+測試模式說明
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4xMxhWHVjVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+回復原廠設定
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oKEB4uDBiHk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+下雨偵測說明
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EC2BfW9806Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+建商雨水回收系統關閉討論
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LXmlTShxbRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkUHBX5UYOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

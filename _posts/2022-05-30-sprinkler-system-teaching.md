@@ -12,7 +12,7 @@ tags: [機電]
 
 ![](https://i.imgur.com/N5ClXob.jpg)
 
-噴灌灑水系統有 4 個位置
+噴灌灑水系統有 4 個位置。
 
 - 社區中庭: 位置在 B5 的 A 棟梯廳旁，車位 305 的上方。
 - A 棟頂樓花園: 位置在 A 棟 R2F 機房。
@@ -57,7 +57,7 @@ WATER NOW 噴灌立即噴灑設定 - 教學影片。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qJdTV0AcrH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-SCHEDULES: 噴灌定時排程噴灑設定說明
+SCHEDULES: 噴灌定時排程噴灑設定說明。
 
 ![](https://i.imgur.com/PUIJj0P.jpg)
 
@@ -85,30 +85,30 @@ SCHEDULES 噴灌定時排程噴灑設定 - 教學影片。
 
 其它教學影片和問題討論影片。
 
-測試模式說明
+測試模式說明。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4xMxhWHVjVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-回復原廠設定
+回復原廠設定。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKEB4uDBiHk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-雨水偵測說明
+雨水偵測說明。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EC2BfW9806Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-雨水感應器
+雨水感應器。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nNy0DNRmRfA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66nXh3XteEI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-建商雨水回收系統關閉討論
+建商雨水回收系統關閉討論。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LXmlTShxbRg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkUHBX5UYOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-其中一棟頂樓(R2F)的系統設定操作教學
+其中一棟頂樓(R2F)的系統設定操作教學。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2C5-2pb0xU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

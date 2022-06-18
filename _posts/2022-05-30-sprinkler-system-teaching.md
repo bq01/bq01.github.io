@@ -15,9 +15,9 @@ tags: [機電]
 噴灌灑水系統有 4 個位置
 
 - 社區中庭: 位置在 B5 的 A 棟梯廳旁，車位 305 的上方。
-- A 棟頂樓花園: 位置在 A 棟頂樓機房。
-- B 棟頂樓花園: 位置在 B 棟頂樓機房。
-- C 棟頂樓花園: 位置在 C 棟頂樓機房。
+- A 棟頂樓花園: 位置在 A 棟 R2F 機房。
+- B 棟頂樓花園: 位置在 B 棟 R2F 機房。
+- C 棟頂樓花園: 位置在 C 棟 R2F 機房。
 
 不同位置的噴灌灑水系統設定方式都一樣，這裡以社區中庭來說明，位置在 B5 的 A 棟梯廳旁，車位 305 的上方，詳細位置可查看下方的圖片或下載[B5F 雨水回收設備配置平面圖](../assets/post/20220530-1/20220530-001.pdf)。
 
@@ -109,6 +109,6 @@ SCHEDULES 噴灌定時排程噴灑設定 - 教學影片。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkUHBX5UYOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-其中一棟頂樓的系統設定操作教學
+其中一棟頂樓(R2F)的系統設定操作教學
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2C5-2pb0xU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -48,7 +48,7 @@ tags: [機電]
 
 ![](https://i.imgur.com/v9Ar6Vt.png)
 
-首先進行的是整套系統的管路說明，黑色過濾球的內部結構說明。
+首先進行的是整套系統的管路說明，黑色過濾球的內部結構說明，裡面的過濾材質是沙子。
 
 ![](https://i.imgur.com/8Y4RIDy.jpg)
 
@@ -59,17 +59,17 @@ tags: [機電]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6TL0SNTntUQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 各種過濾系統方式說明。
-- 正洗: 使用自來水正向沖洗。
-- 反洗: 使用景觀池反向沖洗，因為會消耗水池的水，一次沖洗時間 2 分鐘左右就好。
+- 反洗: 使用景觀池反向沖洗黑色過濾球，因為會消耗水池的水，一次沖洗時間 1 分鐘左右就好。
+- 正洗: 使用景觀池正向沖洗黑色過濾球，因為會消耗水池的水，一次沖洗時間 1 分鐘左右就好。
 - 循環: 定時排程開啟水循環，會使用景觀池的水自動循環，當水位下降時，才會開啟自來水補水，但一般不會此使用此模式，因為水不會經過黑色過濾球。
-- 過濾: 循環加上過濾，水會經過黑色過濾球，氯錠桶加入氯錠可以達到更好的過濾效果。
+- 過濾: 循環加上定時排程開啟過濾，水會經過黑色過濾球，氯錠桶加入氯錠可以達到更好的過濾效果。
 - 排水: 使用抽水馬達排水，但水量少於抽水馬達時不會在排水，所以一般不會使用此功能。要排水話使用自然排水就好。
 
-正洗和反洗說明影片。
+反洗和正洗說明影片，一般操作方式都是 關掉電源 -> 反洗 -> 開啟電源 -> 關掉電源 -> 正洗 -> 開啟電源 -> 關掉電源，這樣才達到一個沖洗循環，建議一個月沖洗一次。
 
 ![](https://i.imgur.com/n5vTVvv.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p_hTVyWM6DU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 排水和循環說明影片。
 
@@ -78,6 +78,9 @@ tags: [機電]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mzv9-1RsN9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 過濾方式切換到過濾，定時排程說明影片。
+- 景觀池過濾泵: 設定兩個水池，定時排程過濾時間。
+- 滿溢循環泵 A: 設定近 A 棟的水池，定時排程循環時間。
+- 滿溢循環泵 B: 設定近 C 棟的水池，定時排程循環時間。
 
 ![](https://i.imgur.com/tYwf35y.jpg)
 
@@ -85,10 +88,12 @@ tags: [機電]
 
 ![](https://i.imgur.com/1NK5sL2.jpg)
 
+![](https://i.imgur.com/EMGeNwh.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vVGUJw538BY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zV2OyMfQeIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 過濾系統加氯錠說明影片。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p_hTVyWM6DU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

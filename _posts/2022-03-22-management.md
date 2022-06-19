@@ -5,7 +5,7 @@ subtitle: 111/03/22（二）
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [會議]
+tags: [管理辦法]
 ---
 
 - 1.依據新潤青峰社區管理委員會111年3月份例行會議決議事項辦理。

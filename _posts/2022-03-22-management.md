@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 訂定「新潤青峰郵件包裹代收管理辦法」及「新潤青峰監視錄影系統管理調閱辦法」
-subtitle: 111/03/13（日）19:00
+subtitle: 111/03/22（二）
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:

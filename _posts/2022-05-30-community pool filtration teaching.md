@@ -22,6 +22,8 @@ tags: [機電]
 
 水池滿水感應說明影片。
 
+![](https://i.imgur.com/4rS64ID.jpg)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kZQsGYDbhnY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/83srKvF42ts" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -63,30 +65,30 @@ tags: [機電]
 - 過濾。
 - 排水。
 
-![](https://i.imgur.com/4PRO67A.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 正洗和反洗說明影片。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzv9-1RsN9o frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](https://i.imgur.com/n5vTVvv.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 排水和循環說明影片。
 
-![](https://i.imgur.com/4PRO67A.jpg)
+![](https://i.imgur.com/55WXxwI.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzv9-1RsN9o"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mzv9-1RsN9o frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+過濾方式切換到過濾，定時排程說明影片。
 
-過濾系統加氯錠說明影片。
+![](https://i.imgur.com/tYwf35y.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p_hTVyWM6DU frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-過濾系統過濾定時排程說明。
+![](https://i.imgur.com/xFdtzuQ.jpg)
 
 ![](https://i.imgur.com/1NK5sL2.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vVGUJw538BY frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVGUJw538BY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zV2OyMfQeIQ frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zV2OyMfQeIQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+過濾系統加氯錠說明影片。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p_hTVyWM6DU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

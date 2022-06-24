@@ -47,7 +47,7 @@ tags: [機電]
 
 ![](https://i.imgur.com/FHIdxIq.jpg)
 
-點擊 WATER NOW -> ZONES 各區域出水時間各別測試。
+點擊 WATER NOW -> ZONES 各區域出水時間各別測試，各區域位置，詳見 [社區中庭噴灌分區表](../assets/post/20220530-1/社區中庭噴灌分區表.pdf))。
 
 ![](https://i.imgur.com/dIR6QqF.jpg)
 

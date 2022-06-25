@@ -5,7 +5,7 @@ subtitle: 9月3日(五)
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [公設]
+tags: [機電消防]
 ---
 
 今日是真禾機電消防檢測日，是有關於社區年度消防申報的行程。

@@ -5,7 +5,7 @@ subtitle: 111/05/30（一）09:30-11:30
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img: 
-tags: [機電]
+tags: [機電消防]
 ---
 
 鑑於社區中庭景觀池的過濾系統，一直不知道詳細的操作方式，所以請湧冠水藝工程公司來社區教學，並且開放也想要了解的住戶，一起參與學習。

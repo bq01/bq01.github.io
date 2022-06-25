@@ -5,7 +5,7 @@ subtitle: 110/10/31（日）11:00-16:00
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [社區交流]
+tags: [社區活動]
 ---
 
 由社區管委會與住戶自發組成，在社區內辦理㇐系列萬聖節活動。透過影片欣賞與繪本閱讀的方式讓小朋友認識萬聖節的由來，再舉辦各種 DIY 手作、闖關遊戲、滑

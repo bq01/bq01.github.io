@@ -5,7 +5,7 @@ subtitle: 110/9/26（日）14:30
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [社區交流]
+tags: [社區活動]
 ---
 
 今天去拜訪我們的兄弟社區翠峰，請教翠峰張主委管委會運作、社區經營、物業管理，如何跟建商談判等經驗，並參觀翠峰的硬體設施。

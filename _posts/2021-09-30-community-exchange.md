@@ -5,7 +5,7 @@ subtitle: 110/9/30（四）19:30
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [社區交流]
+tags: [社區活動]
 ---
 
 青峰、翠峰、柏克萊三個江翠北側 A, B 區社區的管委會互相參訪和社區議題討論，一起學習，未來還可以一起辦假日市集等活動，爭取附近店家的優惠，讓 A, B 區變的更好。

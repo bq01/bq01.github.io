@@ -5,7 +5,7 @@ subtitle: 110/10/17（日）16:30
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:
-tags: [社區交流]
+tags: [社區活動]
 ---
 
 領隊：社區總幹事

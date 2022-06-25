@@ -19,9 +19,9 @@ tags: [管理辦法]
 
 ### 新潤青峰多功能才藝室使用管理辦法快速瀏覽:
 
-![](../assets/post/20211128-3/function-room-01.png)
+![](../assets/post/20211128-3/fitness-room-01.png)
 
 
-### 新潤青峰兒童遊戲室使用管理辦法快速瀏覽:
+### 新潤青峰住戶公共設施點數配發及儲值措施快速瀏覽:
 
-![](../assets/post/20211128-3/play-room-01.png)
+![](../assets/post/20211128-3/point-01.png)

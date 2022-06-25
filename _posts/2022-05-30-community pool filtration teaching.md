@@ -107,3 +107,6 @@ tags: [機電]
 過濾系統加氯錠說明影片。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0baxqItpDXA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+參考資料
+- [湧冠-噴灌灑水系統&景觀池-竣工圖](../assets/post/20220530-1/湧冠-噴灌灑水系統&景觀池-竣工圖.pdf)

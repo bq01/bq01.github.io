@@ -69,7 +69,7 @@ SCHEDULES: 噴灌定時排程噴灑設定說明。
 
 ![](https://i.imgur.com/TIJzZAu.jpg)
 
-點擊 SCHEDULES -> SCHEDULES 設定各區域出水時間間，設定的時間單位為 HH:MM (小時:分鐘)。
+點擊 SCHEDULES -> SCHEDULES 設定各區域出水時間間，設定的時間單位為 HH:MM (小時:分鐘)，各區域位置，詳見 [社區中庭噴灌分區表](../assets/post/20220530-1/社區中庭噴灌分區表.pdf))。
 
 ![](https://i.imgur.com/cw5ZnYI.jpg)
 
@@ -112,3 +112,6 @@ SCHEDULES 噴灌定時排程噴灑設定 - 教學影片。
 其中一棟頂樓(R2F)的系統設定操作教學。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2C5-2pb0xU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+參考資料
+- [湧冠-噴灌灑水系統&景觀池-竣工圖](../assets/post/20220530-1/湧冠-噴灌灑水系統&景觀池-竣工圖.pdf)

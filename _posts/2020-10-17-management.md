@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 訂定「新潤青峰住戶規約（第一次區分所有權人會議修正）」
-subtitle: 110/10/17（六）
+subtitle: 109/10/17（六）
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:

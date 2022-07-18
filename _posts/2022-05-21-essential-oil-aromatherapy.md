@@ -4,7 +4,7 @@ title: 精油芳療課程
 subtitle: 111/5/21（六）15:00-17:00
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/68RAap1.png
 tags: [社區活動]
 ---
 

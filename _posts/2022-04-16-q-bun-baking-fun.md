@@ -4,7 +4,7 @@ title: Q 版饅頭烘焙趣
 subtitle: 111/4/16（六）09:00-11:00  
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/Dqm1lmu.jpg
 tags: [社區活動]
 ---
 

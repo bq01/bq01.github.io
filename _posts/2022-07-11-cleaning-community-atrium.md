@@ -4,7 +4,7 @@ title: 社區中庭石材清洗
 subtitle: 111/07/11（一） 09:00 ~ 18:00
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/TwLY2K9.jpg
 tags: [公設]
 ---
 

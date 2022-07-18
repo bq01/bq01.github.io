@@ -4,7 +4,7 @@ title: 新潤青峰社區公設巡禮活動
 subtitle: 110/10/17（日）16:30
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20211017/community-parade/003.jpg
 tags: [社區活動]
 ---
 

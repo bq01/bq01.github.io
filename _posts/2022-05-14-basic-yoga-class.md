@@ -4,7 +4,7 @@ title: 社區瑜伽－肌礎瑜伽課
 subtitle: 111/5/14（六）10:00-11:30  
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/S2ABJDY.png
 tags: [社區活動]
 ---
 

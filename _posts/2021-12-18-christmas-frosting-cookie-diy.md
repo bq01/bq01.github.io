@@ -4,7 +4,7 @@ title: 聖誕糖霜餅乾 DIY 體驗
 subtitle: 110/12/18（六）09:30-15:30  
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/1FWedFl.jpg
 tags: [社區活動]
 ---
 

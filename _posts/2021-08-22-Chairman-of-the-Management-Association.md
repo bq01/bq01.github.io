@@ -4,7 +4,7 @@ title: 公寓大厦管理協會理事長，將在青峰社區媽媽教室與大�
 subtitle: 8月26日(四) 晚上7點
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20210822/02_001.png
 tags: [公寓大厦管理協會]
 ---
 

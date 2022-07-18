@@ -4,7 +4,7 @@ title: 111年度機車停車位及自行車停車位抽籤
 subtitle: 110/12/11（六）19:00
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/d17ajHj.jpg
 tags: [會議]
 ---
 

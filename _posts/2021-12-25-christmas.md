@@ -4,7 +4,7 @@ title: 聖誕節社區活動
 subtitle: 110/12/25（六）12:00-16:00 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/GJh88fB.png
 tags: [社區活動]
 ---
 

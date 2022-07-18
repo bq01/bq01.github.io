@@ -4,7 +4,7 @@ title: 充電樁安裝記錄
 subtitle: 111/06/29（三） 08:30 ~ 17:00
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/RfOWTsN.jpg
 tags: [公設]
 ---
 

@@ -4,7 +4,7 @@ title: 區權會議題勾選建議書
 subtitle: 8月28日(六) 下午1點
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20210822/01_001.jpg
 tags: [建議書]
 ---
 

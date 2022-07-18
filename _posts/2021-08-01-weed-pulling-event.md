@@ -4,7 +4,7 @@ title: 社區拔草活動
 subtitle: 110/08/01（日）06:30-08:30 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/GBSJAie.jpg
 tags: [社區活動]
 ---
 

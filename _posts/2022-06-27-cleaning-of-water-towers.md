@@ -4,7 +4,7 @@ title: 清洗各棟地下室蓄水池及頂樓水塔
 subtitle: 111/06/27（一） 08:30 ~ 20:00
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/QLiRoq0.jpg
 tags: [公設]
 ---
 

@@ -4,7 +4,7 @@ title: 新北市政府海山分局家戶訪查宣導影片
 subtitle: 110/11/19（五）19:40-20:10 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/d7EZU2B.jpg
 tags: [社區活動]
 ---
 

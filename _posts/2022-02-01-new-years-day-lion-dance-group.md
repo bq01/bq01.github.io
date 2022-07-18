@@ -4,7 +4,7 @@ title: 大年初一醒獅團
 subtitle: 111/2/1（二）15:30-16:00 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/qkBc0u3.jpg
 tags: [社區活動]
 ---
 

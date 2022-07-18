@@ -4,7 +4,7 @@ title: 青峰、翠峰、柏克萊 社區交流
 subtitle: 110/9/30（四）19:30
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20210930/20210930(1).jpg
 tags: [社區活動]
 ---
 

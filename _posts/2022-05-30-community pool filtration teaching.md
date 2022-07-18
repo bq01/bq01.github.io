@@ -4,7 +4,7 @@ title: 社區景觀池過濾教學
 subtitle: 111/05/30（一）09:30-11:30 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img: 
+thumbnail-img: https://i.imgur.com/8Y4RIDy.jpg
 tags: [機電消防]
 ---
 

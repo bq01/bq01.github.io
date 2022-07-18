@@ -4,7 +4,7 @@ title: 車道防水匣門安裝演練
 subtitle: 111/07/13（三） 14:30 ~ 16:30
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: https://i.imgur.com/s4GpOuM.jpg
 tags: [公設]
 ---
 

@@ -4,7 +4,7 @@ title: 萬聖節 - 青峰搞什麼鬼
 subtitle: 110/10/31（日）11:00-16:00 
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img: https://i.imgur.com/AK04y6N.jpeg
+thumbnail-img: /assets/post/20211031/menu.png
 tags: [社區活動]
 ---
 

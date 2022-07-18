@@ -4,7 +4,7 @@ title: 翠峰社區交流
 subtitle: 110/9/26（日）14:30
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20210926/community/05_02_停車場.jpg
 tags: [社區活動]
 ---
 

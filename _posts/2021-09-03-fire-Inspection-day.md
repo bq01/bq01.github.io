@@ -4,7 +4,7 @@ title: 真禾機電消防檢測日
 subtitle: 9月3日(五)
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20210903/02_05.jpg
 tags: [機電消防]
 ---
 

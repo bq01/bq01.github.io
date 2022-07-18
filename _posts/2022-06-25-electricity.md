@@ -4,7 +4,7 @@ title: 社區小公變更為住商簡易型時間電價計費節電報告
 subtitle: 111/04 ~ 111/06
 cover-img: /assets/img/content-header.png
 share-img: 
-thumbnail-img:
+thumbnail-img: /assets/post/20220625/01.png
 tags: [公設]
 ---
 

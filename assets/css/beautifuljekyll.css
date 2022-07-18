@@ -488,12 +488,15 @@ footer .footer-custom-content {
 }
 .post-preview .post-image {
   float: right;
+  margin-bottom: 15px;
+  /*
   margin-left: 0.625rem;
   height: 12rem;
   width: 12rem;
+  */
 }
 .post-preview .post-image {
-  filter: grayscale(40%);
+  filter: grayscale(0%);
 }
 .post-preview .post-image:hover {
   filter: grayscale(0%);
@@ -535,6 +538,7 @@ footer .footer-custom-content {
 
 .post-preview .post-read-more {
   font-weight: 800;
+  margin-top: 15px;
 }
 
 @media (min-width: 768px) {

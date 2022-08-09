@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 修定「新潤青峰多功能才藝室使用管理辦法」
-subtitle: 111/07/11（一）
+subtitle: 111/06/23（四）
 cover-img: /assets/img/content-header.png
 share-img: 
 thumbnail-img:

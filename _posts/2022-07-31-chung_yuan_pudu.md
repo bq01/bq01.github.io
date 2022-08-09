@@ -30,8 +30,6 @@ tags: [社區活動]
 
 ![](https://i.imgur.com/iyWzUcS.jpg)
 
-![](https://i.imgur.com/5VGzwDi.jpg)
-
 ![](https://i.imgur.com/goJsxAS.jpg)
 
 ![](https://i.imgur.com/DwIhPzt.jpg)
